@@ -2,7 +2,7 @@
 - 🔍 I’m interested in Honing my Programming skills
 - 🌱 I’m currently learning C++,Python,JS,Lua
 - ⛓️ I’m looking to collaborate on ...
-- 📫 How to reach me Just As Easy as contacting my Email
+- 📫 How to reach me is Just As Easy as contacting my Email
 
 <!---
 AzkaLM/AzkaLM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
